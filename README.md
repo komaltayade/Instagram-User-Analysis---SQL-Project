@@ -5,7 +5,9 @@ Instagram User Analysis – SQL Project
 🔍 An Analytical Approach to User Engagement & Product Strategy
 
 By: Komal Tayade
+
 Tools Used: MySQL Workbench, Microsoft PowerPoint
+
 
 🧠 Project Overview
 
@@ -15,6 +17,7 @@ Goal: Identify behavioral patterns and trends among users.
 
 Role: Data Analyst – worked closely with product and marketing teams.
 
+
 🛠️ Tech Stack
 
 SQL: Data extraction, joins, filtering, aggregations.
@@ -22,6 +25,7 @@ SQL: Data extraction, joins, filtering, aggregations.
 MySQL Workbench: Running and managing SQL queries.
 
 PowerPoint: Presenting insights visually.
+
 
 🚀 Project Approach
 
@@ -37,6 +41,7 @@ Investor Reports
 
 3. Insights Reporting
 Extracted outputs were visualized and compiled into an insight-rich presentation.
+
 
 📈 Key Analysis Modules
 
@@ -57,6 +62,7 @@ Hashtag Research
 Ad Campaign Timing
 → Tuesday showed the most registrations – best day to launch ads.
 
+
 🔵 B) Investor-Focused Metrics
 
 User Engagement Score
@@ -64,6 +70,7 @@ User Engagement Score
 
 Bot Detection
 → Identified 13 suspicious accounts engaging with every post.
+
 
 📌 Key Findings
 
@@ -77,6 +84,7 @@ Marketing Levers: Best hashtags and ad launch days discovered.
 
 Platform Trust: Fake/bot users filtered to maintain integrity.
 
+
 🏆 Achievements
 
 Applied complex SQL queries on real-world-style data.
@@ -84,6 +92,7 @@ Applied complex SQL queries on real-world-style data.
 Delivered actionable insights for business decision-making.
 
 Demonstrated ability to combine technical skill with business goals.
+
 
 ✅ Conclusion
 
